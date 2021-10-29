@@ -1,3 +1,10 @@
 # scrum-estimate
 
-![scrumEstimate](https://user-images.githubusercontent.com/12026146/139364654-23fedaf8-671e-4c09-88c9-f8afaf9b0858.png)
+![scrumestimateflow](https://user-images.githubusercontent.com/12026146/139365135-5ba1e4a9-ed6a-439d-8e2b-bb30092c1610.png)
+
+To start: Create `credentials.py` in root directory.
+
+`credentials.py` :
+```
+bot_token = '<<YOUR TELEGRAM BOT TOKEN HERE>>'
+```
